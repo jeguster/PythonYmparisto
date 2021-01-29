@@ -36,9 +36,9 @@ eurot = float(markat) / 6
 print('Se olisi nykyään', eurot, 'euroa')
 
 # Funktiot pythonissa, esim funktio, joka muuttaa markat euroiksi
-def euroa(markkaa)
+def euroa(markkaa):
 
-    """Funktio palauttaaa markkoina annetun arvon europina
+    """Funktio palauttaaa markkoina annetun arvon euroina
 
     Args:
         markkaa (float): rahamäärä markkoina
